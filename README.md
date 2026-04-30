@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<script>
+    // This will remove the <!DOCTYPE html> declaration
+    if (document.doctype) {
+      document.doctype.remove();
+      console.log("Doctype removed successfully.");
+    }
+  </script>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">

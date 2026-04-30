@@ -506,7 +506,7 @@ footer{background:#0C0906;padding:1.65rem var(--gut);display:flex;align-items:ce
           <span class="atag">WordPress / WooCommerce</span><span class="atag">Google Ads Certified</span>
           <span class="atag">Adobe Suite</span><span class="atag">Mailchimp / Klaviyo</span><span class="atag">Asana / Monday</span>
         </div>
-        <a class="alink" href="https://www.linkedin.com/in/angedas" target="_blank" rel="noopener">
+        <a class="alink" href="https://www.linkedin.com/posts/ange-das-6b7122127_the-ultimate-amazon-fba-guide-activity-6912949223302832128-X-22?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8p72sB9CjE6VEHYNN64lvq1qYhQurjggQ" target="_blank" rel="noopener">
           <div class="alink-icon">&#128196;</div>
           <div>
             <div class="alink-lbl">Published Guide &bull; LinkedIn</div>

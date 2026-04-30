@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta content="width=device-width,initial-scale=1.0">
 <title>Ange Das — Communications Strategist</title>
 <meta name="description" content="Communications strategy, internal messaging programs, and content systems. Orlando, FL.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
